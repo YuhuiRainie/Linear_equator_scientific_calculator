@@ -1,0 +1,14 @@
+C:\Users\yuhui liu\source\repos\assignmentThird\assignmentThird\bin\Debug\assignmentThird.exe.config
+C:\Users\yuhui liu\source\repos\assignmentThird\assignmentThird\bin\Debug\assignmentThird.exe
+C:\Users\yuhui liu\source\repos\assignmentThird\assignmentThird\bin\Debug\assignmentThird.pdb
+C:\Users\yuhui liu\source\repos\assignmentThird\assignmentThird\obj\Debug\assignmentThird.csprojResolveAssemblyReference.cache
+C:\Users\yuhui liu\source\repos\assignmentThird\assignmentThird\obj\Debug\assignmentThird.csproj.CoreCompileInputs.cache
+C:\Users\yuhui liu\source\repos\assignmentThird\assignmentThird\obj\Debug\assignmentThird.exe
+C:\Users\yuhui liu\source\repos\assignmentThird\assignmentThird\obj\Debug\assignmentThird.pdb
+C:\Users\yuhui liu\assignmentThird\assignmentThird\bin\Debug\assignmentThird.exe.config
+C:\Users\yuhui liu\assignmentThird\assignmentThird\bin\Debug\assignmentThird.exe
+C:\Users\yuhui liu\assignmentThird\assignmentThird\bin\Debug\assignmentThird.pdb
+C:\Users\yuhui liu\assignmentThird\assignmentThird\obj\Debug\assignmentThird.csprojResolveAssemblyReference.cache
+C:\Users\yuhui liu\assignmentThird\assignmentThird\obj\Debug\assignmentThird.csproj.CoreCompileInputs.cache
+C:\Users\yuhui liu\assignmentThird\assignmentThird\obj\Debug\assignmentThird.exe
+C:\Users\yuhui liu\assignmentThird\assignmentThird\obj\Debug\assignmentThird.pdb

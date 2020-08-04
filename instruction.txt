@@ -1,0 +1,6 @@
+please input "x" not "X"
+The program only can execute one equation at one time.(teacher said it is ok)
+
+program is the main method.
+This is included other calculations up to an equation contained two "x".
+ This is not included the brackets functions.
